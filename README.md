@@ -1,6 +1,6 @@
 # Supply Chain Risk & Insurance Premiums
 
-An empirical research project that quantifies the relationship between global supply chain disruptions and insurance industry premiums, with a focus on manufacturing-exposed lines. This was developed as the final project for **IEOR 4572** at Columbia University.
+An empirical research project that quantifies the relationship between global supply chain disruptions and insurance industry premiums, with a focus on manufacturing-exposed lines.
 
 ---
 
@@ -160,9 +160,3 @@ jupyter notebook notebook4.ipynb   # VAR / impulse response
 ## Report
 
 The full write-up, including literature review, detailed results, and policy implications, is available in [`IEOR4572_FinalProjectReport.pdf`](IEOR4572_FinalProjectReport.pdf).
-
----
-
-## Course
-
-**IEOR 4572** — Columbia University
