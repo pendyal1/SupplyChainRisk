@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+numpy
+openpyxl
+pandas>=2.2,<3
+scipy
+seaborn
+statsmodels>=0.14
+xlrd
